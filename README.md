@@ -1,5 +1,5 @@
 # Cookie Recipe Rating Predictor
-Machine learning model that predicts the recipe rating of a chocolate chip cookie recipe based on the measurements of various ingredients in the recipe.
+Machine learning model that predicts the recipe rating of a chocolate chip cookie recipe based on the measurements of various ingredients in the recipe. 🍪
 
 ## Description
 This is a multiple linear regression model predicting the allrecipes.com rating (on a scale of 3 to 5) of a chocolate chip cookie recipe based on the ratio of various ingredients (fat (oil, butter, etc.), sugar, brown sugar, eggs, vanilla extract, all purpose flour, baking soda, salt, and chocolate chips) in the recipe.
