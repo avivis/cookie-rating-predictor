@@ -2,7 +2,7 @@
 Machine learning model that predicts the recipe rating of a chocolate chip cookie recipe based on the measurements of various ingredients in the recipe. 🍪
 
 ## Description
-This is a multiple linear regression model predicting the allrecipes.com rating (on a scale of 3 to 5) of a chocolate chip cookie recipe based on the ratio of various ingredients (fat (oil, butter, etc.), sugar, brown sugar, eggs, vanilla extract, all purpose flour, baking soda, salt, and chocolate chips) in the recipe.
+This is a multiple linear regression model predicting the allrecipes.com rating of a chocolate chip cookie recipe based on the ratio of various ingredients (fat (oil, butter, etc.), sugar, brown sugar, eggs, vanilla extract, all purpose flour, baking soda, salt, and chocolate chips) in the recipe.
 
 Finding recipes online can be overwhelming. I was curious what makes a good chocolate chip cookie, and if there was any pattern to all of the highly rated chocolate chip cookie recipes. Baking is all about ratios, and machine learning is all about patterns -- finding a pattern to the ratios of ingredients in various levels of "good" chocolate chip cookies could unlock what ratios make a chocolate chip cookie amazing.
 
