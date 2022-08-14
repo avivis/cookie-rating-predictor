@@ -6,4 +6,4 @@ This is a multiple linear regression model predicting the allrecipes.com rating 
 
 Baking is all about ratios of ingredients. I was curious what makes a good chocolate chip cookie a good chocolate chip cookie, and let machine learning do the work! This model is trained on a dataset of allrecipes.com chocolate chip cookie recipies with ratings from 3-5 and the proportions of fat (oil, butter, etc.), sugar, brown sugar, eggs, vanilla extract, all purpose flour, baking soda, salt, and chocolate chips in the recipes. 
 
-More information on the dataset, the training of the model, and the predictions can be found in the Jupyter Notebook file! 
+More information on the dataset, the training of the model, and the predictions of the model can be found in the Jupyter Notebook file! 
